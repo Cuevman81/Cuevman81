@@ -1,8 +1,8 @@
 ### Hi, I'm Rodney 👋
 
-I'm an air quality meteorologist with the Mississippi Department of Environmental Quality in Jackson.
-I forecast ozone and PM2.5 and prepare meteorological data for dispersion modeling.
-I also build the tools I wish existed for that work, mostly in **R Shiny** and **Next.js**, on public data from EPA, NOAA and the NWS.
+**Rodney Cuevas, CCM, BCES** · Manager, Air Quality Management Branch, MDEQ
+
+I build the tools I wish existed for air quality work, mostly in **R Shiny** and **Next.js**, on public data from EPA, NOAA and the NWS.
 
 ---
 
